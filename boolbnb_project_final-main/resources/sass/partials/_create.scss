@@ -1,0 +1,18 @@
+.my-container{
+    border: 1px solid lightgray;
+    padding: 2rem;
+    border-radius: 30px;
+    background-color: #ffffffa1;
+    width: 50%;
+
+    #submit{
+        background-color: #ff385c;
+        padding: 10px 20px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .my-container {
+        width: 70%;
+    }
+}

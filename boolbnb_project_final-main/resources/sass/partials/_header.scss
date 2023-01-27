@@ -1,0 +1,58 @@
+// § Regole di stile per l'header
+.navbar {
+    background-color: white;
+    width: 100%;
+    border-bottom: 1px solid lightgrey;
+
+
+    li {
+        margin: 0 .8rem;
+        width: fit-content;
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+    }
+
+    .fa-solid {
+        font-size: 1.2rem;
+        vertical-align: middle;
+        padding-right: .1rem;
+    }
+}
+
+.navbar-nav .dropdown-menu{
+    position: absolute;
+}
+
+.nav-username{
+    font-size: .8rem;
+}
+
+// regole di stile per la lista degli indirizzi
+ul#result_address {
+    background-color: white;
+    padding: .6rem 2rem;
+    font-weight: 600;
+    border-radius: 10px;
+    z-index: 1;
+
+    li {
+        list-style-type: none;
+        padding: .2rem 0;
+        cursor: pointer;
+        
+    }
+  
+}
+
+.my-bg:hover{
+    background-color: lightgray;
+}
+.abaut-btn{
+    text-decoration: none;
+    color: black;
+}
+
+

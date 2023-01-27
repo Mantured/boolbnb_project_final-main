@@ -1,0 +1,36 @@
+<?php
+
+return[
+    'uploads/house1.png',
+    'uploads/house2.png',
+    'uploads/house3.png',
+    'uploads/house4.png',
+    'uploads/house5.png',
+    'uploads/house6.png',
+    'uploads/house7.png',
+    'uploads/house8.png',
+    'uploads/house9.png',
+    'uploads/house10.png',
+    'uploads/img-1.png',
+    'uploads/img-2.png',
+    'uploads/img-3.png',
+    'uploads/img-4.png',
+    'uploads/img-5.png',
+    'uploads/img-6.png',
+    'uploads/img-7.png',
+    'uploads/img-8.png',
+    'uploads/img-9.png',
+    'uploads/img-10.png',
+    'uploads/img-11.png',
+    'uploads/img-12.png',
+    'uploads/img-13.png',
+    'uploads/img-14.png',
+    'uploads/img-15.png',
+    'uploads/img-16.png',
+    'uploads/img-17.png',
+    'uploads/img-18.png',
+    'uploads/img-19.png',
+    'uploads/img-20.png',
+]
+
+?>
